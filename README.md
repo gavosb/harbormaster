@@ -7,4 +7,4 @@ To use this code for your own use, you will need to have a .env file containing:
 
 (bot token) must be replaced with the bot's auth token given by discord.
 
-Other prerequisites include the discord.py and python-dotenv packages.
+Other prerequisites include the discord.py, aiosqlite, pyborg, and python-dotenv packages.
